@@ -1,0 +1,32 @@
+@media (min-width:350px) and (max-width:767px) {
+	[class*="col-4"] { 
+		width: 100%;
+  }
+  .menu{
+    display: none;
+ }
+
+  .fa-bars{
+    color: #fff;
+    display: inline-block;
+  }
+  
+  .option{
+    padding-right: 5.375em;
+    padding-top: 1.0625em;
+  }
+
+  .title {
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 2.375em;
+  }
+  
+  .titulo{
+    font-size: 140px;
+    padding-top: 0.2em;
+  }
+
+  
+
+}
